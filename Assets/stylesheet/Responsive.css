@@ -1,0 +1,473 @@
+@media screen and (width: 768px) {
+    .hovering{
+        margin-top: 220px;
+        position: fixed;
+        display: flex;
+        justify-content: flex-end;
+    
+        width: 100%;
+    }
+}
+.subHandle{
+    text-align: start;
+}
+@media screen and (max-width: 767px) {
+.forImage{
+    display: none;
+}
+    .hovering{
+        display: none;
+    }
+}
+@media screen and (width: 1440px) {
+    .hovering{
+        margin-top: 420px;
+        position: fixed;
+        display: flex;
+        justify-content: flex-end;
+    
+        width: 100%;
+    }
+    .contt{
+        margin-top: 920px;
+    }
+  
+}
+@media screen and (width: 2560px) {
+    .contt{
+        margin-top: 9020px;
+        /* background-color: red; */
+    }
+    .hovering{
+        margin-top: 1020px;
+        position: fixed;
+        display: flex;
+        justify-content: flex-end;
+    
+        width: 100%;
+    }
+    .contt{
+        margin-top: 1220px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+.hero-image{
+    display: none;
+}
+
+    .heyyy{
+
+    padding-left: 60px;
+}
+}
+@media screen and (max-width:768px){
+
+    .hero1{
+        font-family: 'Space Grotesk';
+        font-style: normal;
+        font-weight:bold;
+        font-size: 45px;
+        line-height: 110.2%;
+        text-align: center;
+        
+        color: #121212;
+
+    
+    }
+    .festa{
+        display: flex;
+        justify-content: space-between;
+        font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 25px;
+    margin-bottom: 34px;
+    color: #767676;
+    
+    width: 100%;
+      }
+    .leftalign {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .wrapper{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+       /* background-color: red; */
+       margin-top: -200px;
+    }
+    .wrapper2{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+       /* background-color: red; */
+       margin-top: -200px;
+    }
+
+    .Container2{
+   
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+  
+    
+    }
+    @media screen and (max-width:425px){
+        .theImportance{
+            font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 33px;
+        margin-left: 20px;
+        display: flex;
+        justify-content: center;
+        text-align: start;
+        }
+        .blogger{
+            /* background-color: red; */
+            /* width: 80%; */
+            display: flex;
+            margin-left: 20px;
+            justify-content: flex-start;
+            /* flex-wrap: wrap; */
+            margin-top: 15px;
+        }
+       .reverse{
+        display: flex;
+        flex-direction: column-reverse;
+        /* background-color: red; */
+        margin-top: -950px;
+       }
+      .stand{
+        /* margin-right: 500px; */
+        margin-right: 800px;
+        /* background-color: red; */
+       }
+       /* .imgHold3{
+      
+        background-color: green;
+       } */
+       .subbImage{
+        object-fit: contain;
+        width: 100%;
+    }
+       .pussh{
+ /* background-color: beige; */
+ width:90%;
+ margin-left:16px;
+    }
+    .vann{
+        margin-top: 29px;
+        /* background-color: red; */
+    }
+  
+
+ 
+
+        .trymove{
+            width: 3px;
+       
+        }
+}
+
+    @media screen and (min-width:768px){
+        .aliggn1{
+           /* background-color: red; */
+           margin-left: 70px;
+        }
+
+    }
+@media screen and (max-width:1440px){
+   
+
+        
+
+}
+@media screen and (width: 768px) {
+    .contt{
+        margin-top: 420px;
+    }
+}
+@media screen and (width: 1024px) {
+    .contt{
+        margin-top: 520px;
+    }
+}
+@media screen and (max-width:1024px) {
+    .bigBoy{
+        margin-top: 14px;
+    }
+    .mapouter{
+        position: relative;
+        text-align: right;
+        height: 450px;
+        width: 420px;
+        /* background-color: red; */
+    }
+
+    .gmap_canvas{
+        overflow: hidden;
+        background: none !important;
+        height: 500px;
+        width: 420px;
+  
+    }
+   
+}
+
+@media screen and (max-width:900px) {
+
+    .mapouter{
+        position: relative;
+        text-align: right;
+        height: 450px;
+        width: 350px;
+        /* background-color: red; */
+    }
+
+    .gmap_canvas{
+        overflow: hidden;
+        background: none !important;
+        height: 500px;
+        width: 350px;
+        /* display: none; */
+  
+    }
+}
+@media screen and (max-width:425px) {
+
+    .mapouter{
+        position: relative;
+        text-align: right;
+        height: 450px;
+        width: 350px;
+        /* background-color: red; */
+        margin-right: -34px;
+    }
+
+    .gmap_canvas{
+        overflow: hidden;
+        background: none !important;
+        height: 500px;
+        width: 350px;
+        /* display: none; */
+  
+    }
+
+    .flipp{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column-reverse;
+    }
+    .our{
+        font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 44px;
+margin-bottom: -45px;
+    }
+    .newlook{
+        margin-bottom: 40px;
+    }
+
+
+    .festa{
+        display: flex;
+        /* justify-content: space-between; */
+        flex-direction: column;
+        align-items: flex-start;
+        font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    margin-top: 25px;
+    margin-bottom: 34px;
+    color: #767676;
+    flex-wrap: wrap;
+    width: 100%;
+      }
+     
+
+.schedule {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 48px;
+    letter-spacing: 0.005em;
+    margin-left: 10%;
+}
+.talks {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 31px;
+    margin-left: 10%;
+}
+
+.movement{
+display: flex;
+justify-content: center;
+margin-left: -40px;
+
+}
+
+.buuu {
+    background: #3693F7;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 20px;
+    width: 240px;
+    color: white;
+    height: 60px;
+    outline: none;
+    border: none;
+}
+
+.head {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 29px;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.newlook2{
+    height: 100%;
+    width: 100%;
+    padding-left: 0px;
+    margin-bottom: 50px;
+}
+
+.aliggn1{
+    height: 485px;
+    margin-bottom: -90px;
+    /* background-color: red; */
+}
+
+.projects2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 115px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.norms{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: start;
+padding-top: 30px;
+cursor: pointer;
+}
+
+.subHandle{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+/* text-align: center; */
+/* padding-top: 10px; */
+padding-top: 10px;
+}
+.pave{
+    margin-top: auto;
+}
+.leftt {
+    display: flex;
+    justify-content: center;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    /* line-height: 102px; */
+}
+.lets2 {
+    font-family: 'DM Sans';
+    margin-top: -20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 80px;
+    color: #121212;
+    /* background-color: red; */
+}
+
+
+.letsss {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 53px;
+    color: #121212;
+    margin-top: 12px;
+}
+
+}
+@media screen and (max-width:375px) {
+
+    .mapouter{
+        position: relative;
+        text-align: right;
+        height: 450px;
+        width: 350px;
+        /* background-color: red; */
+        margin-left: -10px;
+    }
+
+    .gmap_canvas{
+        overflow: hidden;
+        background: none !important;
+        height: 500px;
+        width: 350px;
+        /* display: none; */
+  
+    }
+}
+@media screen and (max-width:320px) {
+
+    .mapouter{
+        position: relative;
+        text-align: right;
+        height: 450px;
+        width: 290px;
+        /* background-color: red; */
+    }
+
+    .gmap_canvas{
+        overflow: hidden;
+        background: none !important;
+        height: 500px;
+        width: 290px;
+        /* display: none; */
+  
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .visit{
+        margin-left: 60px;
+        /* background-color: red; */
+    }
+
+}
